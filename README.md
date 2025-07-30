@@ -1,2 +1,2 @@
-# dance-class
+dance.html
 dance-class-booking-system
